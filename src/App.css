@@ -11,9 +11,12 @@
 .main-container-2{
   width: 100%;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   gap: 10px;
 }
 .main-container-sidebar{
-  width: 2.5%;
+  width: 3%;
+}
+.main-container-dashboard{
+  width: 95%;
 }
