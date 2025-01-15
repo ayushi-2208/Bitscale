@@ -2,17 +2,16 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 89vh;
-    /* padding: 10px; */
-    margin-left: 5px;
+    height: 86.2vh;
+    padding: 20px;
     justify-content: space-between;
-    border-right: 1px solid #E5E5E5;
+    /* border-right: 6px solid black; */
 }
 .sidebar-container-top{
     display: flex;
     flex-direction: column;
     gap: 22px;
-    padding: 10px;
+    /* padding: 10px; */
 }
 .sidebar-container-top img{
     width: 20px;
@@ -22,7 +21,7 @@
     display: flex;
     flex-direction: column;
     gap: 22px;
-    padding: 10px;
+    /* padding: 10px; */
 }
 .sidebar-container-bottom img{
     width: 20px;

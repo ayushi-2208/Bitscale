@@ -9,9 +9,11 @@ import FileDownloadOutlinedIcon from '@mui/icons-material/FileDownloadOutlined';
 import DeleteOutlineOutlinedIcon from '@mui/icons-material/DeleteOutlineOutlined';
 import Enrich from '../../images/enrich.svg'
 import './dashboard.css';
+import Table from '../Table/Table';
 
 const Dashboard = () => {
   return (
+    <>
     <div className='dashboard-container'>
       <div className='dashboard-left'>
         <div className='dashboard-search-input'>
@@ -45,6 +47,8 @@ const Dashboard = () => {
        <DeleteOutlineOutlinedIcon style={{width:"22px", height:"22px"}}/>
       </div>
     </div>
+    <Table/>
+    </>
   )
 }
 

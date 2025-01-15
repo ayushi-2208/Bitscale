@@ -28,7 +28,7 @@
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
-    font-family: "Roboto", serif;
+    font-family: "Inter", serif;
     color: #6B7280;
 }
 .dashboard-search-input input:hover{
@@ -46,7 +46,7 @@
     font-size: 12px;
     font-weight: 500;
     line-height: 18px;
-    font-family: "Roboto", serif;
+    font-family: "Inter", serif;
     color: #1F2A37;
 }
 .dashboard-right{
@@ -63,7 +63,7 @@
     font-size: 12px;
     font-weight: 500;
     line-height: 18px;
-    font-family: "Roboto", serif;
+    font-family: "Inter", serif;
     color: #ffffff;
     padding: 5px 14px;
 }
