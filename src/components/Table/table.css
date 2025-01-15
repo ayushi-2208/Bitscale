@@ -1,4 +1,4 @@
-table{
+table {
   width: 100%;
   border-collapse: collapse;
   text-align: left;
@@ -6,32 +6,33 @@ table{
   line-height: 21px;
   font-family: "Inter", serif;
 }
-th{
-    background-color: #F6F6F6;
+th {
+  background-color: #f6f6f6;
 }
-.header-div{
-    display: flex;
-    align-items: center;
-    background-color: transparent;
-    gap: 6px;
+.header-div {
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  gap: 6px;
 }
-td, th{
-    border: 1px solid #E2E2E3;
-    padding: 3px 5px 3px 10px ;
+td,
+th {
+  border: 1px solid #e2e2e3;
+  padding: 3px 5px 3px 10px;
 }
-.add-column-btn{
-    background-color: transparent;
-    border: none;
-    font-weight: 600;
-    display: flex;
-    align-items: center;
+.add-column-btn {
+  background-color: transparent;
+  border: none;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
 }
-.add-row-btn{
-    background-color: transparent;
-    border: none;
-    font-weight: 600;
-    display: flex;
-    align-items: center;
-    padding: 4px 0;
-    margin-left: 95px;
+.add-row-btn {
+  background-color: transparent;
+  border: none;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  padding: 4px 0;
+  margin-left: 95px;
 }
